@@ -6,8 +6,8 @@ This repository contains DPC-STEM data for two ferrite systems: **Sr-based ferri
 
 - **Root directory**
   - DPC images (vector components) for each material:
-    - `Sr-based ferrite` : DPC images (x- and y-components)
-    - `Ca-La-Co-based ferrite` : DPC images (x- and y-components)
+    - `DPCx_Sr-based.tif`,`DPCy_Sr-based.tif` : DPC images (x- and y-components) for the Sr-based ferrite.
+    - `DPCx_Ca-La-Co-based.tif`,`DPCy_Ca-La-Co-based.tif` : DPC images (x- and y-components) for the Ca-La-Co-based ferrite.
 
 - **Raw detector images**
   - `RawData_Sr-based/`
